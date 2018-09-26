@@ -1,2 +1,2 @@
 # c
-brief c programs
+Repository with various basic C scripts
